@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-Huma
+- 👋 Hi, I am Dithapelo Huma
 - 👀 I’m interested in Data science and analytics
 - 🌱 I’m currently learning Business intelligence at Belgium Campus
 - 💞️ I’m looking to extend my knowledge on anything related to data science, business intelligence and anything along those lines
